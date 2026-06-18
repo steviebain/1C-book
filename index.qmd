@@ -1,6 +1,7 @@
-# Preface {.unnumbered}
+# About this book {.unnumbered}
+## Author details
 
-This is a Quarto book.
+Stevie Bain, School of Molecular Biosciences
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
